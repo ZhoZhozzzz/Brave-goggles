@@ -1,7 +1,8 @@
 version: 1.0
 title: Better Results Goggle
 description: Boosts quality sources and allows more NSFW results. Filters out low-effort content.
-include_domains:
+author: ZhoZhozzzz
+included_domains:
   - reddit.com
   - literotica.com
   - ao3.org
@@ -11,7 +12,7 @@ include_domains:
   - nhentai.net
   - fanfiction.net
   - rentry.co
-exclude_domains:
+excluded_domains:
   - quora.com
   - pinterest.com
   - wikihow.com
